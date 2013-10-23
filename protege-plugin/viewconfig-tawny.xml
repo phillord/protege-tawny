@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout>
+    <VSNode splits="1.0">
+        <HSNode splits="0.5">
+            <VSNode splits="0.10609567901234568 0.14390432098765432 0.25">
+                <CNode>
+                    <Component label="Class hierarchy">
+                        <Property id="pluginId" value="org.protege.editor.owl.OWLAssertedClassHierarchy"/>
+                    </Component>
+                </CNode>
+                <HSNode splits="0.0625">
+                    <CNode>
+                        <Component label="Object property hierarchy">
+                            <Property id="pluginId" value="org.protege.editor.owl.OWLObjectPropertyTree"/>
+                        </Component>
+                    </CNode>
+                </HSNode>
+                <CNode>
+                    <Component label="Tawny View Component">
+                        <Property id="pluginId" value="uk.org.russet.tawny-protege.Tawny ViewComponent"/>
+                    </Component>
+                </CNode>
+            </VSNode>
+        </HSNode>
+    </VSNode>
+</layout>
